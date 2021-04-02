@@ -621,15 +621,8 @@
           <h1>What should pay <br>my baysitter ?</h1>
           <p>Get the going rate in your town</p>
         </div>
-        
-            <div class="select1" tabindex="1">
-                <input id="intu" class="selectopt" name="test" type="radio" id="opt1" checked>
-                <label for="opt1" class="option1">Number Of Children</label>
-                <input id="intu" class="selectopt" name="test" type="radio" id="opt2">
-                <label for="opt2" class="option1">1</label>
-                <input id="intu" class="selectopt" name="test" type="radio" id="opt2">
-                <label for="opt2" class="option1">2</label> 
-          </div>
+
+          
 
           <select id="drop">
               <option value="" disabled="disabled" selected="selected">Number of children</option>
